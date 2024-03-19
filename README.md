@@ -50,65 +50,119 @@ Reo Tweak is a fascinating modification designed for iOS devices, specifically e
 
 Gravity Tweak is an innovative and powerful application designed to enhance the customization capabilities of your smartphone. It acts as a tweak or modification that can be installed on your device, unlocking a plethora of features and options that are not available in the stock operating system.
 
-📥 [Install Gravity Tweak](https://julioverne.github.io/description.html?id=com.julioverne.gravity)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Gravity-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Gravity - Move Icons with Gravity</span><br>
+    <span style="font-size: 14px;">(iOS 13 – iOS 7)</span>
+    <br><br>
+    📥 <a href="https://julioverne.github.io/description.html?id=com.julioverne.gravity">Install Gravity Tweak</a>
+</p>
 
 ### 03. Translomatic Tweak
 
 Translomatic Tweak is a meticulously crafted jailbreak tweak by FoxFortMobile that empowers users to swiftly translate any selected text displayed on their screens. With a comprehensive range of over 100 supported languages, this tweak seamlessly integrates into all contemporary jailbreaks operating on iOS versions 13.0 through 16.7.1. Whether you’re browsing Twitter, using Discord, or reading Facebook Messenger messages, Translomatic makes it easy to translate text with just a few taps. It even supports offline translation for specific languages on iOS 14. So, if you need quick and convenient translations, Translomatic has you covered! 
 
-📥 [Install Translomatic Tweak](https://havoc.app/package/translomatic)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/translomatic-tweak-icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Translomatic - Translate any text Quickly</span><br>
+    <span style="font-size: 14px;">(iOS 13 – 16.7.1)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/translomatic">Install Translomatic Tweak</a>
+</p>
 
 ### 04. Rune Tweak
 
 Rune Tweak is a powerful jailbreak modification designed to enhance the control and functionality of your iOS device. Developed by iCraze, this tweak provides quick access to various device actions through an easily invoked interface. Key features include swipe-up access, customizable panels for music controls, app launching, device actions, and listening mode. Compatible with iOS 14 and newer, Rune Tweak simplifies device control and adds convenience to your jailbroken iOS experience! 
 
-📥 [Install Rune Tweak](https://havoc.app/package/rune)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Rune-Tweak-Icon-1.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Rune - Easy iOS Control Options</span><br>
+    <span style="font-size: 14px;">(iOS 17.2 – 14.0)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/rune">Install Rune Tweak</a>
+</p>
 
 ### 05. Stella Tweak
 
 Stella Tweak is a powerful jailbreak modification designed to enhance the control and functionality of your iOS device. Developed by iCraze, this tweak provides quick access to various device actions through an easily invoked interface. Key features include swipe-up access, customizable panels for music controls, app launching, device actions, and listening mode. Compatible with iOS 14 and newer, Rune Tweak simplifies device control and adds convenience to your jailbroken iOS experience!
 
-📥 [Install Stella Tweak](https://havoc.app/package/stella)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Stella-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Stella - Let it snow on your device</span><br>
+    <span style="font-size: 14px;">(iOS 14.0 - 17.3.1)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/stella">Install Stella Tweak</a>
+</p>
 
 ### 06. Dynamic Stage Tweak
 
 Dynamic Stage Tweak is a modern reimagining of the Stage Manager for iPhone. Dynamic Stage enables you to simultaneously run two independent apps in split view mode. Simply swipe up from the bottom right to access the stage, where you can launch apps or activate split view. Customize settings for each app, allowing them to launch in iPad mode without needing a relaunch. While some apps may not work optimally within the stage, many others function seamlessly. Dynamic Stage offers smooth animations and usability, making it feel like a stock feature rather than a hack.
 
-📥 [Install Dynamic Stage Tweak](https://havoc.app/depiction/dynamicstage)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Dynamic-Stage-Tweak-Icon.png" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Dynamic Stage - Stage Manager Reimagined for iPhone</span><br>
+    <span style="font-size: 14px;">(iOS 14.0 - 15.7.8)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/depiction/dynamicstage">Install Dynamic Stage Tweak</a>
+</p>
 
 ### 07. Rena Tweak
 
 Rena Tweak is a contemporary jailbreak modification designed specifically for rootless jailbreaks running iOS 15. Seamlessly integrating a practical app shortcuts launcher onto the Lock Screen, Rena provides a personalized app shortcut widget that serves as an expedient gateway to your favored applications. With Rena, you can quickly launch your preferred apps directly from the iOS 15 Lock Screen, eliminating the need to navigate through the Home Screen. The tweak allows you to handpick your set of five favorite applications, customize the dimensions of the RenaView, and fine-tune various settings. Rena is compatible with jailbreaks like Fugu15 Max, Dopamine, XinaA15, and Palera1n, making it a convenient addition for enhancing your iOS experience!
 
-📥 [Install Rena Tweak](https://havoc.app/package/rena)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Rena-Tweak-Icon-1.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Rena - Launch top lock screen apps fast</span><br>
+    <span style="font-size: 14px;">(iOS 15.7.1 – 15.0)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/rena">Install Rena Tweak</a>
+</p>
 
 ## 08. Mochi15 Tweak
 
 Mochi15 Tweak is a remarkable jailbreak modification designed to enhance the aesthetics and functionality of the Lock Screen’s Music player on iOS 15 devices. Developed by Sugiuta, this tweak allows users to customize the Music widget, unlocking new aesthetic possibilities that go beyond the stock experience. 
 
-**Mochi15 - Enhanced Music Experience**
-(iOS 15.7.1 – 15.0)
-
-📥 [Install Mochi15 Tweak](https://havoc.app/package/mochi15)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Mochi15-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Mochi15 - Enhanced Music Experience</span><br>
+    <span style="font-size: 14px;">(iOS 15.7.1 – 15.0)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/mochi15">Install Mochi15 Tweak</a>
+</p>
 
 ## 09. Macaron Tweak
 
 Macaron Tweak is a lightweight jailbreak modification developed by straight_tamago and Sugiuta that allows you to customize the background of your iPhone’s Home Screen Dock. With Macaron, you can set any image as the Dock’s background, giving it a unique and personalized look. Whether you want to make your Dock stand out or simply prefer a more pleasant visual experience, Macaron has you covered.
 
-**Macaron - Display photo in dock background**
-(iOS 16.5 – 15.0)
-
-📥 [Install Macaron Tweak](https://havoc.app/package/macaron)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Macaron-Tweak-Icon.png" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Macaron - Display photo in dock background</span><br>
+    <span style="font-size: 14px;">(iOS 16.5 – 15.0)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/macaron">Install Macaron Tweak</a>
+</p>
 
 ## 10. PFPViewer Tweak
 
 PFPViewer Tweak is an ingenious modification for jailbroken iOS devices that allows you to view profile pictures with a simple long-tap gesture.
 
-**Download Pfpviewer (arm64)**
-[Download](https://github.com/dayanch96/PFPViewer/releases/download/v0.0.1/com.dvntm.pfpviewer_0.0.1_iphoneos-arm64.deb)
-
-**Download Pfpviewer (arm)**
-[Download](https://github.com/dayanch96/PFPViewer/releases/download/v0.0.1/com.dvntm.pfpviewer_0.0.1_iphoneos-arm.deb)
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/PFPViewer-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Download Pfpviewer (arm64)</span><br>
+    <a href="https://github.com/dayanch96/PFPViewer/releases/download/v0.0.1/com.dvntm.pfpviewer_0.0.1_iphoneos-arm64.deb">Pfpviewer (arm64)</a>
+    <br>
+    <span style="font-size: 18px;">Download Pfpviewer (arm)</span><br>
+    <a href="https://github.com/dayanch96/PFPViewer/releases/download/v0.0.1/com.dvntm.pfpviewer_0.0.1_iphoneos-arm.deb">Pfpviewer (arm)</a>
+</p>
 
 ## 11. YTKillerPlus Tweak
 
