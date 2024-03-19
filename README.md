@@ -9,32 +9,27 @@ Let’s install the latest package managers for both jailbroken and non-jailbrok
 ### Cydia Plus
 Cydia Plus is a third-party package manager that supports iOS 15 through iOS 17.4 Beta for both jailbroken and non-jailbroken devices. It offers a wide array of iOS modifications. With the original Cydia by Saurik no longer receiving updates, Cydia Plus has emerged as a popular alternative for accessing sought-after tweaks and enhancements.
 
-<p align="center">
 📥 [Install Cydia Plus](https://iospack.com/store/#cydia)
-</p>
 
 ### Cydia
 Cydia is one of the earliest and most renowned package managers designed specifically for jailbroken iOS devices. It allows users to browse repositories (commonly referred to as “repos” or “sources”) and download tweaks, themes, and other software not available through the App Store.
 
-<p align="center">
 📥 [Install Cydia Plus](https://iospack.com/store/#cydia)
-</p>
+
 
 ### Sileo
 Sileo is another package manager tailored for jailbroken iOS devices. It provides a user-friendly interface for managing tweaks and packages. Like Cydia, it enables users to discover and install a variety of modifications and enhancements.
-<p align="center">
-📥 [Install Sileo Plus](https://iospack.com/store/#sileo/)
-</p>
 
-<p align="center">
+📥 [Install Sileo Plus](https://iospack.com/store/#sileo/)
+
 📥 [Install Sileo](https://iexmo.com/sileo/)
-</p>
+
 
 ### Zebra
 Zebra, previously known as AUPM, is a handy package manager for jailbroken iOS devices. It allows users to install tweaks, themes, and other utilities not available through the App Store. Zebra utilizes the Advanced Packaging Tool (APT), originally developed by the Debian project. It is actively developed and supports iOS 14+ and macOS 11+. To install Zebra, visit getzbra.com on your jailbroken iOS device.
-<p align="center">
+
 📥 [Install Zebra](https://iexmo.com/updates/zebra-app/)
-</p>
+
 
 ## Best Tweaks for iOS [Latest Tweaks List]
 
