@@ -39,15 +39,12 @@ Reo Tweak is a fascinating modification designed for iOS devices, specifically e
 
 <p align="center">
     <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/reo-tweak-icon.webp" alt="Logo" width="70" height="70"></img>
-    <span style="display: inline-block; margin-left: 20px; vertical-align: top; font-size: 18px;">Reo - Modern music player<br>(iOS 13 – iOS 17)</span>
+    <br>
+    <span style="font-size: 18px;">Reo - Modern music player</span><br>
+    <span style="font-size: 14px;">(iOS 13 – iOS 17)</span>
     <br><br>
-    <a href="https://havoc.app/package/reo"><button>📥 Install Reo Tweak</button></a>
+    📥 <a href="https://havoc.app/package/reo">Install Reo Tweak</a>
 </p>
-
-
-
-
-📥 [Install Reo Tweak](https://havoc.app/package/reo)
 
 ### 02. Gravity Tweak
 
