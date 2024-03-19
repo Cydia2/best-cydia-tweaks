@@ -75,3 +75,94 @@ Rena Tweak is a contemporary jailbreak modification designed specifically for ro
 
 📥 [Install Rena Tweak](https://havoc.app/package/rena)
 
+## 08. Mochi15 Tweak
+
+Mochi15 Tweak is a remarkable jailbreak modification designed to enhance the aesthetics and functionality of the Lock Screen’s Music player on iOS 15 devices. Developed by Sugiuta, this tweak allows users to customize the Music widget, unlocking new aesthetic possibilities that go beyond the stock experience. 
+
+**Mochi15 - Enhanced Music Experience**
+(iOS 15.7.1 – 15.0)
+
+📥 [Install Mochi15 Tweak](https://havoc.app/package/mochi15)
+
+## 09. Macaron Tweak
+
+Macaron Tweak is a lightweight jailbreak modification developed by straight_tamago and Sugiuta that allows you to customize the background of your iPhone’s Home Screen Dock. With Macaron, you can set any image as the Dock’s background, giving it a unique and personalized look. Whether you want to make your Dock stand out or simply prefer a more pleasant visual experience, Macaron has you covered.
+
+**Macaron - Display photo in dock background**
+(iOS 16.5 – 15.0)
+
+📥 [Install Macaron Tweak](https://havoc.app/package/macaron)
+
+## 10. PFPViewer Tweak
+
+PFPViewer Tweak is an ingenious modification for jailbroken iOS devices that allows you to view profile pictures with a simple long-tap gesture.
+
+**Download Pfpviewer (arm64)**
+[Download](https://github.com/dayanch96/PFPViewer/releases/download/v0.0.1/com.dvntm.pfpviewer_0.0.1_iphoneos-arm64.deb)
+
+**Download Pfpviewer (arm)**
+[Download](https://github.com/dayanch96/PFPViewer/releases/download/v0.0.1/com.dvntm.pfpviewer_0.0.1_iphoneos-arm.deb)
+
+## 11. YTKillerPlus Tweak
+
+YTKillerPlus Tweak is a remarkable modification that transforms your YouTube experience on iOS devices. Developed by iKarwan, this tweak offers a host of features and enhancements. It provides background playback, an ad-free experience, and high-quality downloads. Whether you’re using a jailbroken device or prefer sideloading, YTKillerPlus enhances your YouTube usage. 
+
+**YTKiller Plus - Premium YT experience for free**
+(iOS 16 – iOS 14.0)
+
+📥 [Install YTKillerPlus Tweak](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)
+
+## 12. ENA Tweak
+
+ENA Tweak is a jailbreak modification designed for iOS 14 through iOS 16. Developed by xia0, it brings an exhilarating feature to the Photos app. With ENA, users can effortlessly extract almost any element from their photos. Whether you’re using a rootless or rootful jailbreak (such as Dopamine or Palera1n), ENA allows you to isolate and extract various objects directly from your photos. The computational tasks are performed on the device itself, ensuring privacy and convenience. 
+
+**ENA - Just extract nearly anything**
+(iOS 16.5 – iOS 14.0)
+
+📥 [Install ENA Tweak](https://havoc.app/package/ena)
+
+## 13. ArtFull Tweak
+
+ArtFull Tweak is an exceptional jailbreak modification that offers a stunning redesign for the Apple Music app on iOS 14 through iOS 16. Developed by xia0, it brings the aesthetics of iOS 17 to your music experience. With ArtFull, you’ll notice iOS 16+ style sliders for volume and time control in the Music app, as well as faded artwork. The tweak requires no configuration and has no dependencies. Whether you’re using a rootless or rootful jailbreak (such as Dopamine or Palera1n), ArtFull allows you to enjoy the sleek look of iOS 17 in your music player. 
+
+**ArtFull - Make Apple Music iOS 17-ready**
+(iOS 16.5 – iOS 14.0)
+
+📥 [Install ArtFull Tweak](https://havoc.app/package/artfull)
+
+## 14. AlbumManager Tweak
+
+AlbumManager Tweak is an innovative jailbreak modification designed to elevate the privacy of your Photos app experience. Developed by NoisyFlake, this exceptional tweak enhances your control over your photos by allowing you to seamlessly move them from the Camera roll to designated Albums. AlbumManager supports iOS 15 – iOS 16.5 and works with jailbreaks like Dopamine, Palera1n, and XinaA15. What sets AlbumManager apart is its ability to fortify your Albums with state-of-the-art security measures, such as Face ID/Touch ID authentication or password protection. Furthermore, it empowers you to discreetly conceal locked Albums within all third-party apps, bolstering the security of your personal visual content.
+
+**AlbumManager - Organize & Protect Your Photos**
+(iOS 16.3 – iOS 15.0)
+
+📥 [Install AlbumManager Tweak](https://chariz.com/get/albummanager)
+
+## 15. Ding Tweak
+
+Ding Tweak is a remarkable jailbreak modification that allows you to take control of your iPhone’s ringer switch.
+
+**Ding - Control your Ringer Switch**
+(iOS 16.0 – iOS 13.0)
+
+📥 [Install Ding Tweak](https://chariz.com/buy/ding)
+
+## 16. AppIndex Tweak
+
+AppIndex Tweak is a powerful jailbreak modification that simplifies app management, analysis, and backup directly on your iOS device. Developed by Serena, this tool caters to both normal and rootless jailbreaks, supporting iOS versions from 13 up to 16. With AppIndex, you can effortlessly back up and restore app data using iCloud services, export apps as decrypted IPA files, and explore detailed information about each app. It’s a valuable resource for discovering entitlements, URL schemes, and privacy prompts related to your installed apps. 
+
+**AppIndex - Analyse & Backup Applications**
+(iOS 16.0 – iOS 13.0)
+
+📥 [Install AppIndex Tweak](https://chariz.com/get/appindex)
+
+## 17. SearchDots Tweak
+
+SearchDots Tweak is an exciting jailbreak modification that brings the future of search to your iOS 15 device. By porting the iOS 16 search pill, it offers features like Spotlight or App Library Search, adjustable Y Offset, and the ability to hide the background. With SearchDots, you can enhance your search experience and enjoy powerful customization options. 
+
+**SearchDots - The Search Pill**
+(iOS 15.7 – iOS 15.0)
+
+📥 [Install SearchDots Tweak](https://chariz.com/get/searchdots)
+
