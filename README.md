@@ -1,6 +1,6 @@
 # Best Cydia Tweaks for iOS 15 - iOS 17.4 Beta [2024]
 
-Discover the latest and trendiest Cydia or Sileo tweaks for enhancing your iPhone and iPad experiences on iOS versions 16 through 17.4.
+The latest tweaks for your non-jailbroken and jailbroken iPhone or iPad devices are now available. Discover the trendiest Cydia or Sileo tweaks for enhancing your latest iPhone and iPad experiences. These tweaks are compatible with iOS versions 16 through 17.4, and you can find their installation links.
 
 ## iOS Package Managers
 
@@ -35,7 +35,7 @@ Zebra, previously known as AUPM, is a handy package manager for jailbroken iOS d
 
 ### 01. Reo Tweak 
 
-Reo Tweak is a fascinating modification designed for iOS devices, specifically enhancing the functionality of your Lock Screen music player. Reo Tweak reimagines the music player experience, making it work seamlessly with all versions of Spotify and other music players. Reo offers two different styles (Dark and Light) and allows you to customize various aspects, including offset, size, corner radius, blur, and background.
+Reo Tweak is a fascinating modification designed for iOS devices, specifically enhancing the functionality of your Lock Screen music player. Reo Tweak reimagines the music player experience, making it work seamlessly with all versions of Spotify and other music players.Reo offers two different styles (Dark and Light) and allows you to customize various aspects, including offset, size, corner radius, blur, and background.
 
 📥 [Install Reo Tweak](https://havoc.app/package/reo)
 
@@ -166,3 +166,29 @@ SearchDots Tweak is an exciting jailbreak modification that brings the future of
 
 📥 [Install SearchDots Tweak](https://chariz.com/get/searchdots)
 
+## 18. Sleepizy 2 Tweak
+
+Sleepizy 2 Tweak is the perfect solution for those who enjoy falling asleep to their favorite tunes while optimizing their sleep routine. With Sleepizy 2, you can effortlessly create a customized sleep experience tailored to your preferences. This jailbreak tweak enhances your music-listening experience by enabling you to set a timer to automatically stop playback from the convenience of the Control Center. It also offers automation capabilities, allowing you to execute specific actions when the timer starts or ends. Whether you want to activate Do Not Disturb mode, enable Airplane mode, or trigger customized iOS Shortcuts, Sleepizy 2 seamlessly integrates with the Control Center Media module. You can configure the duration of uninterrupted music playback, set the number of songs to be played, and even enable a fade-out option for a smooth transition. 
+
+**Sleepizy 2 - Optimize Your Sleep Routing**
+(iOS 15.7 – iOS 14.2)
+
+📥 [Install Sleepizy 2 Tweak](https://chariz.com/buy/sleepizy2)
+
+## 19. ChromaFlow Tweak
+
+ChromaFlow Tweak is a remake of the popular ColorFlow 5 tweak for iOS 14.2 and later. Developed by ryannair05, it enhances the music experience by dynamically coloring the lock screen and music app based on the album art. ChromaFlow also adds shuffle/repeat buttons and provides iOS 10-style resizing modes for the media player.
+
+**ChromaFlow - Display album art in now playing UI**
+(iOS 14.8 – iOS 14.2)
+
+📥 [Install ChromaFlow Tweak](https://chariz.com/buy/chromaflow)
+
+## 20. OneSettings Tweak
+
+OneSettings Tweak is an exquisite jailbreak modification that transforms the aesthetics of the Settings app on iOS, taking inspiration from the sleek interface of Samsung’s OneUI Settings app. Beyond visual enhancements, this tweak provides an array of customization options for the Settings app. Developed by Nightwind, it offers features like GIF support for banners, manual slider adjustment, and improved stability. OneSettings is compatible with both rootful and rootless jailbreaks on iOS 14, 15, and 16 devices.
+
+**OneSettings - Tweak for Device Settings App**
+(iOS 16.5 – iOS 14.0)
+
+📥 [Install OneSettings Tweak](https://chariz.com/buy/onesettings)
