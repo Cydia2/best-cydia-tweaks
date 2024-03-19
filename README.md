@@ -38,8 +38,7 @@ Zebra, previously known as AUPM, is a handy package manager for jailbroken iOS d
 Reo Tweak is a fascinating modification designed for iOS devices, specifically enhancing the functionality of your Lock Screen music player. Reo Tweak reimagines the music player experience, making it work seamlessly with all versions of Spotify and other music players.Reo offers two different styles (Dark and Light) and allows you to customize various aspects, including offset, size, corner radius, blur, and background.
 
 <p align="center">
-    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/reo-tweak-icon.webp
-" alt="Logo" width="70" height="70"></img>
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/reo-tweak-icon.webp" alt="Logo" width="70" height="70"></img>
     <span style="margin-left: 20px; font-size: 18px;">Reo - Modern music player<br>(iOS 13 – iOS 17)</span>
     <br><br>
     <a href="https://havoc.app/package/reo"><button>📥 Install Reo Tweak</button></a>
