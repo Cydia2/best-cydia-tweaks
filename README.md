@@ -295,3 +295,8 @@ OneSettings Tweak is an exquisite jailbreak modification that transforms the aes
 </p>
 
 Enhance your iPhone experience with the latest tweaks from KFD, MDC, TrollStore, and Cydia, whether your device is jailbroken or not.
+
+## Credits
+
+Thanks to the dedicated world of jailbreaking, all jailbreak developers, tweak developers, and contributors have shaped the jailbreaking community with their tireless efforts, innovative spirit, and resilience. Experience the freedom to customize your iOS devices, thanks to their groundbreaking work. 
+*Join the modern Cydia Plus Community and continue supporting the thriving jailbreaking community.*
