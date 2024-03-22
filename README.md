@@ -294,6 +294,84 @@ OneSettings Tweak is an exquisite jailbreak modification that transforms the aes
     📥 <a href="https://chariz.com/buy/onesettings">Install OneSettings Tweak</a>
 </p>
 
+## 21. Call Recorder X+ Tweak
+
+Call Recorder X+ is a powerful jailbreak tweak for iOS that addresses a common desire: recording phone calls directly from your iPhone. While Apple hasn’t natively implemented this feature, Call Recorder X+ steps in to fill the gap. Developed by hacx, this tweak integrates seamlessly with the native Phone app and various VoIP services. When you’re in the middle of a call, it adds a red “Record” button to the Phone app interface. Tapping it initiates call recording, and the audio files are stored on an internal web server for easy access. Super Recorder X+, an enhanced version, offers additional features like a 200% volume amplifier and a voice changer. Keep in mind that recording phone calls may not be legal in every country without the other party’s consent, so tread carefully and understand your local laws before using this tweak. 
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Call%20Recorder%20X%2B%20Tweak.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Call Recorder X+ - Native Call Recorder</span><br>
+    <span style="font-size: 14px;">(iOS 16.6 – iOS 12.0)</span>
+    <br><br>
+    📥 <a href="https://hacx.org/cydia/?dep=com.hacx.callrecorderxplus">Install Call Recorder X+ Tweak</a>
+</p>
+
+## 22. Dock Controller Tweak
+
+Dock Controller is a free jailbreak tweak designed to enhance the functionality of the Dock on iOS devices running iOS 11 and above. With this tweak, users can customize their Dock by adding more apps, removing the background, and adjusting its appearance. Notably, Dock Controller enables the floating Dock feature on older devices and brings iPad Dock features to iPhones. Whether you want to fine-tune your Dock layout or explore additional options, this tweak provides a powerful set of tools for jailbroken devices. It’s a must-have for those seeking greater control over their app organization and aesthetics. 
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Dock%20Controller-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Dock Controller - Personalize your dock</span><br>
+    <span style="font-size: 14px;">(iOS 16.0 – iOS 12.0)</span>
+    <br><br>
+    📥 <a href="https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp">Install Dock Controller Tweak</a>
+</p>
+
+## 23. Scribble Tweak
+
+Scribble Tweak is a clever jailbreak modification that offers an alternative way to unlock your iPhone. Instead of the usual passcode, Face ID, or Touch ID, Scribble lets you create a personalized drawing gesture to access your device. Introduced in 2019, this innovative feature remains compatible with the latest jailbreaks. You can customize your unlocking experience by choosing different drawing styles, adjusting stroke size and color, and even enabling a blurred background or paint canvas. Plus, it’s now available for free, making it accessible to more users. Just remember to have a 4 or 6 digit passcode enabled, as alphanumeric passcodes are not supported by Scribble. It’s a secure and enjoyable way to interact with your iPhone!
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Scribble-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Scribble - Custom drawing device unlock</span><br>
+    <span style="font-size: 14px;">(iOS 14.0 – iOS 12.2)</span>
+    <br><br>
+    📥 <a href="https://repo.packix.com/package/com.boo.scribble">Install Scribble Tweak</a>
+</p>
+
+## 24. YTHoldForSpeed Tweak
+
+YTHoldForSpeed is a nifty jailbreak tweak designed for the YouTube app on iOS. When installed, it allows users to tap and hold during video playback to toggle the playback speed. Essentially, you can quickly switch between different playback speeds by using this intuitive gesture. Whether you want to slow down or speed up a video, YTHoldForSpeed makes it convenient and efficient. Plus, it even offers the option to automatically apply the selected speed when launching a new video player. So, if you’re a YouTube enthusiast who enjoys fine-tuning your viewing experience, this tweak is worth checking out!
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/YTHoldForSpeed-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">YTHoldForSpeed - Adjust YT playback speed</span><br>
+    <span style="font-size: 14px;">(iOS 16.5 – iOS 13.0)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/depiction/ytholdforspeed">Install YTHoldForSpeed Tweak</a>
+</p>
+
+## 25. Complications Tweak
+
+Complications is a jailbreak tweak that brings the Apple Watch widgets to your iPhone’s lock screen. This innovative tweak, compatible with iOS 15 and backward-compatible up to iOS 12, enhances your lock screen functionality by allowing you to add watchOS-inspired widgets. Once installed, you’ll have access to beautifully animated widgets that display useful information from various apps, all without needing to unlock your phone. These widgets update regularly, providing real-time data. With over 30 built-in widgets, including weather conditions, battery status, reminders, and more, Complications offers a customizable and convenient way to stay informed. Whether you’re a seasoned jailbreaker or new to the scene, this tweak adds a touch of elegance and functionality to your iPhone’s lock screen!
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Complications-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <br>
+    <span style="font-size: 18px;">Complications - Apple watch widgets, lock screen</span><br>
+    <span style="font-size: 14px;">(iOS 15.7.2 – iOS 12.2)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/complications">Install Complications Tweak</a>
+</p>
+
+## 26. Call Recorder X+ Tweak
+
+Call Recorder X+ is a jailbreak tweak that brings robust phone call recording functionality to your iPhone. When installed, it allows you to record both native Phone app calls and calls made via various VoIP services. Notably, the Super Recorder X+ (iOS 12) version includes additional features like a 200% volume amplifier and a voice changer. Whether you need to capture important conversations or simply want to keep a record of your calls, this tweak provides a convenient solution for jailbroken devices!
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Call%20Recorder%20X%2B%20Tweak.webp" alt="Call Recorder X+ Logo" width="70" height="70">
+    <br>
+    <span style="font-size: 18px;">Call Recorder X+ - Native Call Recorder</span><br>
+    <span style="font-size: 14px;">(iOS 16.6 – iOS 12.0)</span>
+    <br><br>
+    📥 <a href="https://hacx.org/cydia/?dep=com.hacx.callrecorderxplus">Install Call Recorder X+ Tweak</a>
+</p>
+
 Enhance your iPhone experience with the latest tweaks from KFD, MDC, TrollStore, and Cydia, whether your device is jailbroken or not.
 
 ## Credits
