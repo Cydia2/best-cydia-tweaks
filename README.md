@@ -359,7 +359,72 @@ Complications is a jailbreak tweak that brings the Apple Watch widgets to your i
     📥 <a href="https://havoc.app/package/complications">Install Complications Tweak</a>
 </p>
 
-Enhance your iPhone experience with the latest tweaks from KFD, MDC, TrollStore, and Cydia, whether your device is jailbroken or not.
+## 26. Amelija Tweak 
+
+Amelija is a free jailbreak tweak that allows you to set custom blur effects for your Lock Screen and Home Screen wallpaper. This tweak provides a convenient way to customize the look of any wallpaper by adding subtle or powerful blurring effects. With eight different blur options, including Dark, Light, Adaptive, and more, you can balance the visual impact of app icons and focus on them effectively. The tweak doesn’t require a respring, allowing you to see changes in real time. If you’re looking to enhance your wallpaper aesthetics on a jailbroken iOS 14 device, Amēlija is worth exploring! 
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Amelija%20Tweak.webp" alt="Amelija Logo" width="70" height="70">
+    <br>
+    <span style="font-size: 18px;">Amelija - Blur wallpaper tweak</span><br>
+    <span style="font-size: 14px;">(iOS 16.5 – iOS 14.0)</span>
+    <br><br>
+    📥 <a href="https://repo.twickd.com/get/me.luki.amelija">Install Amelija Tweak</a>
+</p>
+
+## 27. Checkl0ck Tweak
+
+Checkl0ck is a powerful jailbreak tweak designed to enhance the security of your checkm8-compatible iPhone. When you jailbreak your device using tools like checkra1n or palera1n, you typically need to disable your passcode, Face ID, or Touch ID. However, this leaves your device vulnerable to unauthorized access. Checkl0ck addresses this issue by allowing you to secure your device with a passcode and biometric authentication even after jailbreaking. It supports both numeric and alphanumeric passwords, as well as biometric unlocking via Face ID or Touch ID. Additionally, it extends its protection to third-party apps, making it a valuable addition for those who prioritize security on their jailbroken iPhones. 
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Checkl0ck-Tweak-Icon.webp" alt="Checkl0ck Logo" width="70" height="70">
+    <br>
+    <span style="font-size: 18px;">Checkl0ck - Enable FaceID or TouchID</span><br>
+    <span style="font-size: 14px;">(iOS 16.5 – iOS 14.3)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/checkl0ck">Install Checkl0ck Tweak</a>
+</p>
+
+## 27. Grider Tweak
+
+Grider is a jailbreak tweak that adds a unique advantage to your gaming experience on your iPhone or iPad. Developed by gilshahar7, this tweak allows you to overlay a customizable grid onto the interface of any game or app. Whether you’re playing games like Golf Clash or other titles that require precise angles and distances, Grider comes in handy. You can design your own grid, choose colors, adjust line widths, and even add text. Recent updates have expanded its features, including the ability to reorder lines, use dashed or patterned lines, and create circles. Now compatible with jailbroken iOS 16 devices, Grider lets you score higher by providing visual aids for accurate gameplay.
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Grider-Tweak-Icon.webp" alt="Grider Logo" width="70" height="70">
+    <br>
+    <span style="font-size: 18px;">Grider - Custom grids, anywhere you want</span><br>
+    <span style="font-size: 14px;">(iOS 10.0 - 16.7.6)</span>
+    <br><br>
+    📥 <a href="https://havoc.app/package/grider">Install Grider Tweak</a>
+</p>
+
+## 29. IWantTranslucent Tweak
+
+IWantTranslucent is an awesome jailbreak tweak that enhances the 3D touch context menu by replacing its unattractive effects with a clean and translucent look on your iOS 15 and 16 devices. It offers customizable options for adjusting the level of translucency, resulting in a visually pleasing and cool interface.
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/IWantTranslucent-Tweak-Icon.webp" alt="IWantTranslucent Logo" width="70" height="70">
+    <br>
+    <span style="font-size: 18px;">IWantTranslucent - 3D Touch menus translucent</span><br>
+    <span style="font-size: 14px;">(iOS 16.0 – iOS 15.0)</span>
+    <br><br>
+    📥 <a href="https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent">Install IWantTranslucent Tweak</a>
+</p>
+
+## 30. Zetsu Tweak
+
+Zetsu is a remarkable jailbreak tweak that enhances multitasking capabilities on iPhones and iPads. Originally developed for iOS 14, it allows users to concurrently operate multiple apps directly from the Home Screen. With Zetsu, you can open any app in a new window, creating a game-changing option for the 3D Touch or Haptic Touch gesture. This innovative feature enables seamless utilization of multiple app windows simultaneously, enhancing productivity and convenience. Notably, Zetsu supports auto-landscape mode and full-screen video playback for YouTube, making it an exceptional tool for watching videos. Plus, it’s completely free! While other paid tweaks exist, Zetsu offers a comparable or even superior user experience. So, if you’re a jailbreaker seeking enhanced multitasking, give Zetsu a try! 
+
+<p align="center">
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Zetsu%20Tweak.png" alt="Zetsu Logo" width="70" height="70">
+    <br>
+    <span style="font-size: 18px;">Zetsu - Multitasking tweak</span><br>
+    <span style="font-size: 14px;">(iOS 14 – iOS 16.6)</span>
+    <br><br>
+    📥 <a href="https://dcsyhi1998.github.io/depiction/zetsu">Install Zetsu Tweak</a>
+</p>
+
+*Enhance your iPhone experience with the latest tweaks from KFD, MDC, TrollStore, and Cydia, whether your device is jailbroken or not.*
 
 ## Credits
 
