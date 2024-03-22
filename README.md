@@ -312,7 +312,7 @@ Call Recorder X+ is a powerful jailbreak tweak for iOS that addresses a common d
 Dock Controller is a free jailbreak tweak designed to enhance the functionality of the Dock on iOS devices running iOS 11 and above. With this tweak, users can customize their Dock by adding more apps, removing the background, and adjusting its appearance. Notably, Dock Controller enables the floating Dock feature on older devices and brings iPad Dock features to iPhones. Whether you want to fine-tune your Dock layout or explore additional options, this tweak provides a powerful set of tools for jailbroken devices. It’s a must-have for those seeking greater control over their app organization and aesthetics. 
 
 <p align="center">
-    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Dock%20Controller-Tweak-Icon.webp" alt="Logo" width="70" height="70"></img>
+    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Dock-Controller-Tweak-icon.webp" alt="Logo" width="70" height="70"></img>
     <br>
     <span style="font-size: 18px;">Dock Controller - Personalize your dock</span><br>
     <span style="font-size: 14px;">(iOS 16.0 – iOS 12.0)</span>
@@ -357,19 +357,6 @@ Complications is a jailbreak tweak that brings the Apple Watch widgets to your i
     <span style="font-size: 14px;">(iOS 15.7.2 – iOS 12.2)</span>
     <br><br>
     📥 <a href="https://havoc.app/package/complications">Install Complications Tweak</a>
-</p>
-
-## 26. Call Recorder X+ Tweak
-
-Call Recorder X+ is a jailbreak tweak that brings robust phone call recording functionality to your iPhone. When installed, it allows you to record both native Phone app calls and calls made via various VoIP services. Notably, the Super Recorder X+ (iOS 12) version includes additional features like a 200% volume amplifier and a voice changer. Whether you need to capture important conversations or simply want to keep a record of your calls, this tweak provides a convenient solution for jailbroken devices!
-
-<p align="center">
-    <img src="https://github.com/Cydia2/best-cydia-tweaks/blob/main/Assets/Call%20Recorder%20X%2B%20Tweak.webp" alt="Call Recorder X+ Logo" width="70" height="70">
-    <br>
-    <span style="font-size: 18px;">Call Recorder X+ - Native Call Recorder</span><br>
-    <span style="font-size: 14px;">(iOS 16.6 – iOS 12.0)</span>
-    <br><br>
-    📥 <a href="https://hacx.org/cydia/?dep=com.hacx.callrecorderxplus">Install Call Recorder X+ Tweak</a>
 </p>
 
 Enhance your iPhone experience with the latest tweaks from KFD, MDC, TrollStore, and Cydia, whether your device is jailbroken or not.
