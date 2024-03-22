@@ -31,7 +31,7 @@ Previously known as AUPM, Zebra is a handy package manager for jailbroken iOS de
 
 📥 [Install Zebra](https://iexmo.com/updates/zebra-app/)
 
-## Best Tweaks for iOS [Latest Tweaks List]
+## 25+ Best Jailbreak Tweaks for iOS [Updated Cydia Tweaks List]
 
 ### 01. Reo Tweak 
 
